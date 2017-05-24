@@ -82,6 +82,7 @@ nav li a:hover {
 
 .main-visual {
   position: relative;
+  height: 500px;
 }
 
 .main-visual img {
